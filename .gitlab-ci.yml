@@ -1,0 +1,4 @@
+include:
+  - project: devops/servicetemplate
+    ref: main
+    file: servicetemplate.yaml

@@ -1,0 +1,1 @@
+package ru.inpglobal.servicetemplate.exception;
